@@ -1,6 +1,6 @@
 # Gizlilik Politikası
 
-**Son Güncelleme:** 8 Ekim 2024
+**Son Güncelleme:** 8 Ekim 2025
 
 ## 1. Giriş
 
@@ -111,5 +111,5 @@ Veri ihlali durumunda:
 
 ---
 
-**MDATeam © 2024**
+**MDATeam © 2025**
 Bu politika MDA-Bot için geçerlidir.
