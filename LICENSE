@@ -1,7 +1,6 @@
-
 MIT License
 
-Copyright (c) 2025 İrfan Ege Uz (Discord: Monsdea)
+Copyright (c) 2025 MDATeam
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -20,31 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-## MDA-Bot Özel Kullanım Koşulları
-
-Bu yazılımın Discord Bot olarak kullanımı için ek koşullar:
-
-1. **Discord API Uyumluluğu**: Bot Discord Developer Terms of Service'e uygun olarak kullanılmalıdır.
-
-2. **Veri Koruma**: Kullanıcı verilerinin korunması KVKV ve GDPR standartlarına uygun olmalıdır.
-
-3. **Ticari Kullanım**: Botun ticari amaçlı kullanımı için İrfan Ege Uz'dan izin alınmalıdır.
-
-4. **Sorumluluk**: Bot kullanıcıları Discord Community Guidelines'a uymakla yükümlüdür.
-
-5. **Değişiklik Bildirimi**: Kaynak kodda yapılan önemli değişiklikler için copyright notice korunmalıdır.
-
-## İletişim
-
-- Discord Destek: https://discord.gg/ZFDzgWynct
-- GitHub: MDA-Bot
-- Bot ID: 791595852728762368
-
----
-
-**Bot Versiyonu**: v6.0.0  
-**Lisans Versiyonu**: 1.0  
-**Son Güncelleme**: 21 Ocak 2025
