@@ -1,6 +1,6 @@
 # Kullanım Koşulları
 
-**Son Güncelleme:** 8 Ekim 2024
+**Son Güncelleme:** 8 Ekim 2025
 
 ## 1. Şartların Kabulü
 
@@ -8,6 +8,7 @@ MDA-Bot'u ("Bot") kullanarak, bu kullanım koşullarını kabul etmiş sayılır
 
 ## 2. Bot Hakkında
 
+Bot tarafından işlenen veriler, Gizlilik Politikası’na ve yürürlükteki KVKK/GDPR hükümlerine uygun olarak korunur.
 MDA-Bot, MDATeam tarafından geliştirilen ve Discord platformu üzerinde çalışan bir bottur. Bot şu özellikleri sunar:
 - Moderasyon araçları
 - Güvenlik sistemleri
@@ -19,6 +20,7 @@ MDA-Bot, MDATeam tarafından geliştirilen ve Discord platformu üzerinde çalı
 ## 3. Kullanıcı Sorumlulukları
 
 ### 3.1 Kabul Edilen Kullanım
+Bot içindeki oyunlar tamamen eğlence amaçlıdır, herhangi bir gerçek ödül veya parasal değer içermez.
 Kullanıcılar botu şu amaçlarla kullanabilir:
 - Discord sunucusunu yönetmek
 - Oyun oynamak
@@ -100,6 +102,7 @@ Bot, kullanıcı verilerini Gizlilik Politikası'na uygun şekilde işler. Detay
 ### 9.1 Sahiplik
 - Bot ve kaynak kodu MDATeam'e aittir
 - Bot logosu ve görselleri telif haklarıyla korunmaktadır
+- Botun tüm hakları MDATeam’e aittir. İzinsiz çoğaltma, dağıtma veya satış yapılamaz.
 
 ### 9.2 Lisans
 - Bot MIT Lisansı altında lisanslanmıştır
@@ -192,7 +195,7 @@ Bu koşullar, kullanıcı ile MDATeam arasındaki tam anlaşmayı oluşturur.
 
 ---
 
-**MDATeam © 2024**  
+**MDATeam © 2025**  
 Bu koşullar MDA-Bot için geçerlidir.
 
 **Bot kullanarak bu koşulları kabul etmiş sayılırsınız.**
