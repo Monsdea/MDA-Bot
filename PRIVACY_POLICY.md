@@ -11,10 +11,10 @@ MDA-Bot ("Bot"), MDATeam tarafından geliştirilen bir Discord botudur. Bu gizli
 Bot aşağıdaki verileri toplar ve işler:
 
 ### 2.1 Kullanıcı Verileri
-- Discord kullanıcı ID'leri
-- Discord kullanıcı adları
-- Sunucu (guild) ID'leri
-- Kanal ID'leri
+- Discord kullanıcı ID'leri (sadece komutlar için)
+- Discord kullanıcı adları (sadece komutlar için)
+- Sunucu (guild) ID'leri (sadece komutlar için)
+- Kanal ID'leri (sadece komutlar için)
 - Mesaj içerikleri (sadece komutlar için)
 
 ### 2.2 Oyun Verileri
